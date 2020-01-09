@@ -1,5 +1,6 @@
 
 Answer
+
 a. Give an explanation of what has happened according to this GIT tree.
 b. Explain the process that you need to follow in order to get the latest version of
 the project, patch a bug and publish a new release to GIT repository.
